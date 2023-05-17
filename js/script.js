@@ -10,7 +10,6 @@ const handleOnUp = () => {
 
 //TODO:- might need later for scroll effect
 // const swapMove = e => {
-//     // console.log(e.deltaX)
 //     track.dataset.mouseDownAt = e.deltaX;
 //     if(track.dataset.mouseDownAt === "0") return;
    
